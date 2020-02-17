@@ -8,6 +8,6 @@ yossiee CLI.
 $ npx yossiee
 ```
 
-## Licennse
+## License
 
 MTT ©︎ [yossiee](https://github.com/yossiee)
