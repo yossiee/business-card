@@ -17,20 +17,24 @@ const handleSelect = item => {
 
 const items = [
   {
-    label: 'GitHub',
-    url: 'https://github.com/yossiee',
-  },
-  {
-    label: 'Twitter',
-    url: 'https://twitter.com/yossiee_jp',
-  },
-  {
     label: 'Facebook',
     url: 'https://facebook.com/egashira.yoshimitsu',
   },
   {
+    label: 'GitHub',
+    url: 'https://github.com/yossiee',
+  },
+  {
+    label: 'LinkedIn',
+    url: 'https://www.linkedin.com/in/yossiee',
+  },
+  {
     label: 'Qiita',
     url: 'https://qiita.com/yossiee',
+  },
+  {
+    label: 'Twitter',
+    url: 'https://twitter.com/yossiee_jp',
   },
   {
     label: '---------'
