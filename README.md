@@ -19,7 +19,7 @@ $ npx yossiee
 ```sh
 # versioning
 $ git tag v0.x.x
-$ git push origin master
+$ git push origin v0.x.x
 
 # publish to `https://www.npmjs.com/package/yossiee`
 $ yarn publish
