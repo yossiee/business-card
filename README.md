@@ -18,14 +18,16 @@ $ npx yossiee
 
 ## Deploy
 ```sh
-# commit in feature branch
+# commit and push in feature branch
 $ git commit -m 'Update this package'
-
-# versioning and push
-$ git tag v0.x.x
 $ git push origin feature/branch
 
-# merge to master branch in Web console
+# versioning and push
+$ yarn version patch
+vX.X.X
+$ git tag
+vX.X.X
+$ git push origin vX.X.X
 ```
 
 ## License
