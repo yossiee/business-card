@@ -18,12 +18,14 @@ $ npx yossiee
 
 ## Deploy
 ```sh
-# versioning
-$ git tag v0.x.x
-$ git push origin v0.x.x
+# commit in feature branch
+$ git commit -m 'Update this package'
 
-# publish to `https://www.npmjs.com/package/yossiee`
-$ yarn publish
+# versioning and push
+$ git tag v0.x.x
+$ git push origin feature/branch
+
+# merge to master branch in Web console
 ```
 
 ## License
