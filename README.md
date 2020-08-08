@@ -4,6 +4,7 @@
 ![Node Version](https://img.shields.io/node/v/yossiee?style=plastic&color=yellow)
 ![Weekly Downloads](https://img.shields.io/npm/dw/yossiee?style=plastic&color=black)
 ![License](https://img.shields.io/npm/l/yossiee?style=plastic&message=hoge&color=yellow)
+![deploy](https://github.com/yossiee/business-card/workflows/publish%20package/badge.svg)
 
 yossiee's business card CLI :lizard:
 
